@@ -1,12 +1,14 @@
-# [Getting Started with Information Technologies](https://github.com/skywalkerSam/Introduction-To-Information-Technologies)
+# Getting Started with Information Technologies
 
 Introduction to Computational Systems, Networks, and everything in-between...
 
-*How things actually work behind the scenes?
+&nbsp;
 
 <img src="./Resources/memes/theBatman.jpg" alt='The Batman' width=450>
 
-lol ;)
+Behind the scenes... lol ;)
+
+&nbsp;
 
 ## Topics
 
@@ -16,10 +18,12 @@ lol ;)
 
 - Cybersecurity
 
+&nbsp;
+
 Let's begin...
 
 <img src="./Resources/memes/letsBegin.jpg" alt="Let's begin" width=600>
 
-## Until next time .)
+&nbsp;
 
-## ;)
+## Until Next Time...✌️
